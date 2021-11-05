@@ -1,0 +1,50 @@
+---
+title: "My Personal Webpage"
+output: 
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+# Welcome to my personal page!
+
+My name is Jen and I am currently a MS student in Epidemiology at the Mailman School of Public Health in New York City.
+
+If you would like to learn more about my background and previous research projects, you can read about it on my [CV](about.html) page.
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+And here's some additional text
+
+```{r}
+rnorm(10)
+```
+Let's link to useful tools for data science:
+
+* [Google](https://www.google.com)
+* [P8105](https://www.p8105.com)
+
+Here's my cat, Ted:
+
+<!-- example format: ![](images/ted.jpg) -->
+
+
+## Link to page within the site
+
+
+
+
+## Tabs {.tabset}
+
+### Tab 1
+
+This is my first tab
+
+### Tab 2
+
+This is my second tab and it does some other stuff
+
+## This is my new section
+
+... and it's really great
