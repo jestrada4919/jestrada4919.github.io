@@ -12,7 +12,7 @@ output:
 <br /> 
 My name is Jen and I am currently a MS student in Epidemiology at the Mailman School of Public Health in New York City. As a student in P8105, a homework assignment has led me to the creation of this page. Regardless - I hope you find some useful information here.  
 <br /> 
-If you would like to learn more about my background and previous research projects, you can read about it on my [CV page](about.html).  
+If you would like to learn more about my background and previous research projects, you can read about it on my [CV page](about.html) as well as 
 <br /> 
 <br />   
   

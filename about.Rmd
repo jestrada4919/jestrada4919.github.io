@@ -5,91 +5,101 @@ output:
     toc: true
     toc_float: true
 ---
+<br /> 
 
 # Education
+<br /> 
 
 * 2023, (expected) M.S. in Epidemiology, Mailman School of Public Health, Columbia University, New York, NY
+<br /> 
+
 * 2020, M.S. in Geosciences, The Pennsylvania State University, University Park, PA
-Concentrations: Isotope Geochemistry, Hydrogeology
-Thesis title: Effect of brine evolution on Ca-isotope composition in the Salar de Atacama, Northern Chile
-Thesis co-advisors: Matthew S. Fantle, PhD., Tess A. Russo, PhD.
+  * Concentrations: Isotope Geochemistry, Hydrogeology
+  * Thesis title: Effect of brine evolution on Ca-isotope composition in the Salar de Atacama, Northern Chile
+  * Thesis co-advisors: Matthew S. Fantle, PhD., Tess A. Russo, PhD.
+<br /> 
 
 * 2014, B.A. in Earth Sciences (with honors) and Biological Sciences, Dartmouth College, Hanover, NH
-Thesis title: Shedding light on the photoreactivity of manganese oxide phases
-Thesis advisor: Devon J. Renock, PhD
-Foreign studies programs: German (Berlin, Germany); Earth Sciences (Western Canada and US)
-
+  * Thesis title: Shedding light on the photoreactivity of manganese oxide phases
+  * Thesis advisor: Devon J. Renock, PhD
+  * Foreign studies programs: German (Berlin, Germany); Earth Sciences (Western Canada and US)
+<br /> 
+<br /> 
 
 # Research Experience
 
 * June 2019 – Present, Research Assistant, The Hospital for Special Surgery
   * PI: Joshua Dines, MD – Orthopedic Surgery and Sports Medicine
-  * Investigate post-operative outcomes for patients having undergone upper extremity surgeries (e.g. shoulder arthroplasty, shoulder stabilization, ulnar collateral nerve decompression and transposition, UCL reconstruction or repair, etc.) via medical chart reviews, analysis of pre- and post-operative radiological imaging, and patient interviews. Manage several studies from initial approval by the Internal Review Board at HSS along various stages of completion. Assist with manuscript writing and revisions.
-
+  * Investigate post-operative outcomes for patients having undergone upper extremity surgeries (e.g. shoulder arthroplasty, shoulder stabilization, ulnar collateral nerve decompression and transposition, UCL reconstruction or repair, etc.) via medical chart reviews, analysis of pre- and post-operative radiological imaging, and patient interviews. Manage several studies from initial approval by the Internal Review Board at HSS along various stages of completion. Assist with manuscript writing and revisions.  
+<br />
 
 * Aug 2014 – Nov 2016, Graduate Research Assistant, The Pennsylvania State University
   * PI: Matthew Fantle, PhD - Department of Geosciences
-  * Prepared rock and water samples to analyze geochemical composition. Modeled groundwater flow and reactive transport using various open-sourced computer software programs. Wrote grants and proposals to support research expenses. Communicated findings to colleagues at weekly laboratory group meetings as well as in poster presentations to broader geosciences community. Trained undergraduate laboratory assistants and researchers in proper clean laboratory technique and how to clean equipment as well as prepare samples for analysis.
+  * Prepared rock and water samples to analyze geochemical composition. Modeled groundwater flow and reactive transport using various open-sourced computer software programs. Wrote grants and proposals to support research expenses. Communicated findings to colleagues at weekly laboratory group meetings as well as in poster presentations to broader geosciences community. Trained undergraduate laboratory assistants and researchers in proper clean laboratory technique and how to clean equipment as well as prepare samples for analysis.  
+<br />
 
 * June – Aug 2013, Summer Systematics Institute Intern, California Academy of Sciences
   * PI: Rich Mooi, PhD – Department of Invertebrate Zoology and Geology
   * Research topic: Innovation in a major Californian clade of Cenozoic sand dollars: Phylogenetics of Astrodapsis
-  * Recorded data from scientific literature and measured physical characteristics for 12 species of fossilized sand dollars from the genus Astrodapsis. Input phenotypic data into PAUP* computer software and evaluated varying statistical models to construct potential Astrodapsis phylogenetic tree. Discussed the climatic implications of what the proposed phylogenies suggested concerning environmental conditions along the North American Pacific Coast during the Cenozoic period.
+  * Recorded data from scientific literature and measured physical characteristics for 12 species of fossilized sand dollars from the genus Astrodapsis. Input phenotypic data into PAUP* computer software and evaluated varying statistical models to construct potential Astrodapsis phylogenetic tree. Discussed the climatic implications of what the proposed phylogenies suggested concerning environmental conditions along the North American Pacific Coast during the Cenozoic period.  
+<br /> 
 
 * March 2013 – May 2014, Senior Honors Thesis Researcher, Dartmouth College
   * PI: Devon Renock, PhD – Department Earth Sciences
-  * Synthesized various phases of manganese oxide minerals to compare reactivity under a range of pH and light conditions. Confirmed mineral phases using X-ray diffraction (XRD) and characterized physical properties of solids using scanning electron microscopy (SEM). Ran experiments in simple reactors that mimicked a range of natural environments then implemented an array of analytical techniques to gather geochemical data from hundreds of water and rock samples from these experimental conditions.
+  * Synthesized various phases of manganese oxide minerals to compare reactivity under a range of pH and light conditions. Confirmed mineral phases using X-ray diffraction (XRD) and characterized physical properties of solids using scanning electron microscopy (SEM). Ran experiments in simple reactors that mimicked a range of natural environments then implemented an array of analytical techniques to gather geochemical data from hundreds of water and rock samples from these experimental conditions.  
+<br /> 
 
 * Jan 2011 – May 2013, Research Intern and Laboratory Assistant, Dartmouth College
   * PI: Mary Lou Guerinot – Guerinot Laboratory, Department of Biological Sciences
-  * Assisted senior laboratory members with plant genomic research by learning and employing molecular techniques including PCR protocols and gel electrophoresis separations. Conducted laboratory maintenance specific to a plant biology lab including tending to plants, autoclaving equipment, agar plates, and soil for sterilization prior to use and biohazard waste prior to disposal, and training new undergraduate members of the lab to general lab practices.
+  * Assisted senior laboratory members with plant genomic research by learning and employing molecular techniques including PCR protocols and gel electrophoresis separations. Conducted laboratory maintenance specific to a plant biology lab including tending to plants, autoclaving equipment, agar plates, and soil for sterilization prior to use and biohazard waste prior to disposal, and training new undergraduate members of the lab to general lab practices.  
+<br /> 
+<br /> 
 
 # Clinical Experience
 
 * Sept 2018 – May 2019, Medical Scribe, Tribeca Park Dermatology
-  * Transcribed physician recordings of patient visits into charts to ensure thorough documentation of doctor-patient interactions. Assisted administrative staff to schedule patient appointments, communicate between pharmacies and laboratories on behalf of providers, and answer patient inquiries concerning in-office medical and cosmetic procedures
+  * Transcribed physician recordings of patient visits into charts to ensure thorough documentation of doctor-patient interactions. Assisted administrative staff to schedule patient appointments, communicate between pharmacies and laboratories on behalf of providers, and answer patient inquiries concerning in-office medical and cosmetic procedures.  
+<br />
 
 * Jan 2017 – June 2019, Emergency Department Medical Scribe, Scribe America at Mount Sinai Hospitals
-  * Worked at 4 locations within Mount Sinai’s hospital network in New York City and documented patient visits within their medical chart utilizing EPIC electronic based medical records system for providers to expedite patient care (>3,200 patient interactions). Supported emergency medicine residents by setting up bedside ultrasound procedures, communicating between intrahospital departments and outside medical providers to obtain past patient information and results, and chaperoning gynecological exams
+  * Worked at 4 locations within Mount Sinai’s hospital network in New York City and documented patient visits within their medical chart utilizing EPIC electronic based medical records system for providers to expedite patient care (>3,200 patient interactions). Supported emergency medicine residents by setting up bedside ultrasound procedures, communicating between intrahospital departments and outside medical providers to obtain past patient information and results, and chaperoning gynecological exams.  
+<br />
+
 
 # Publications
-
 ## Peer Reviewed Journal Articles
 
-1.	Manzi JE, Estrada JA, Dowling B, Ruzbarsky JJ, Dines JS. Intra- versus inter-pitcher comparisons: Associations of ball velocity with throwing-arm kinetics in professional baseball pitchers. J Shoulder Elbow Surg. 2021:S1058-2746(21)00396-7. doi: 10.1016/j.jse.2021.04.017. PMID: 33930560.
-2.	Manzi JE, Dowling B, Wang Z, Kunze KN, Estrada J, Fu CM, McElheny KL, Carr JB, Dines JS. Association of Pitch Timing and Throwing Arm Kinetics in High School and Professional Pitchers. The American Journal of Sports Medicine. 2021;49(12):3386-3394. doi:10.1177/03635465211031853
+1.	Manzi JE, Estrada JA, Dowling B, Ruzbarsky JJ, Dines JS. Intra- versus inter-pitcher comparisons: Associations of ball velocity with throwing-arm kinetics in professional baseball pitchers. J Shoulder Elbow Surg. 2021:S1058-2746(21)00396-7. [doi:10.1016/j.jse.2021.04.017](https://doi.org/10.1016/j.jse.2021.04.017)
+2.	Manzi JE, Dowling B, Wang Z, Kunze KN, Estrada J, Fu CM, McElheny KL, Carr JB, Dines JS. Association of Pitch Timing and Throwing Arm Kinetics in High School and Professional Pitchers. The American Journal of Sports Medicine. 2021;49(12):3386-3394. [doi:10.1177/03635465211031853](https://doi.org/10.1177/03635465211031853)
+<br /> 
 
 ## Peer Reviewed Abstracts
-1.	Carr J, Manzi J, Estrada J, Dowling B, Mcelheny K, Dines J. Comparison of Elbow Varus Torque During Interval Throwing Programs and Gameday Pitching in High School Baseball Pitchers (125). Orthopaedic Journal of Sports Medicine. October 2021. doi:10.1177/2325967121S00268
-2.	Manzi J, Kunze K, Estrada J, Dowling B, McElheny K, Dines J, Carr J. Rest Day Requirements Have a Greater Effect on Season-Long Workload Expenditure by High School Pitchers than Pitch Count Limits: Implications for High School State Pitch Count Regulations. Orthopaedic Journal of Sports Medicine. July 2021. doi: 10.1177/2325967121S00222
+1.	Carr J, Manzi J, Estrada J, Dowling B, Mcelheny K, Dines J. Comparison of Elbow Varus Torque During Interval Throwing Programs and Gameday Pitching in High School Baseball Pitchers (125). Orthopaedic Journal of Sports Medicine. October 2021. [doi:10.1177/2325967121S00268](https://doi.org/10.1177/2325967121S00268)
+2.	Manzi J, Kunze K, Estrada J, Dowling B, McElheny K, Dines J, Carr J. Rest Day Requirements Have a Greater Effect on Season-Long Workload Expenditure by High School Pitchers than Pitch Count Limits: Implications for High School State Pitch Count Regulations. Orthopaedic Journal of Sports Medicine. July 2021. [doi:10.1177/2325967121S00222](https://doi.org/10.1177/2325967121S00222)
+<br /> 
 
 ## Conference Posters (presented by others)
-1.	McElheny K, Carr J, Manzi J, Dowling B, Estrada J, Dines J. Do Interval Throwing Programs Appropriately Simulate Workload Values of Competitive Pitching. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187. doi: 10.1097/JSM.0000000000000914
-2.	McElheny K, Carr J, Manzi J, Kunze K, Estrada J, Dines J. High School Baseball Pitch Count Rules Vary Widely Across All Fifty States. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187-188. doi: 10.1097/JSM.0000000000000914 
+
+1.	McElheny K, Carr J, Manzi J, Dowling B, Estrada J, Dines J. Do Interval Throwing Programs Appropriately Simulate Workload Values of Competitive Pitching. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)
+2.	McElheny K, Carr J, Manzi J, Kunze K, Estrada J, Dines J. High School Baseball Pitch Count Rules Vary Widely Across All Fifty States. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187-188. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)  
+<br />  
 
 # Teching Experience
 
 * EARTH 100: Earth Environment, The Pennsylvania State University. Teaching Assistant for introductory-level course with 111 students. Spring 2016.
+<br /> 
 
 # Honors & Awards
 
 * 2015 Charles E. Knopf, Sr., Memorial Scholarship in Geosciences (Penn State Dept. of Geosciences)
 * 2014 Kaminsky Family Fund Award (Dartmouth College Undergraduate Research)
+<br /> 
 
 # Grants & Fellowships
 
 * 2015 Geological Society of America (GSA) Graduate Student Research Grant
 * 2014 Bunton-Waller Fellowship (Pennsylvania State University)
-
-# Volunteering & Leadership
-* 2020	 – Present, Clinton Hill-Fort Greene Mutual Aid, Volunteer Shift Captain
--	Organize groups of 10-15 volunteers within the Clinton Hill-Fort Greene area of Brooklyn to package hundreds of pounds of donated produce for individual families. Dispatch drivers with bulk food deliveries to drop-off locations at New York City Housing Authority complexes for distribution to 1000+ households weekly.
-
-* 2018 – Present, Back on My Feet, Volunteer Community Runner
--	Run with members of homeless or addiction and treatment residential facilities in Brooklyn to help empower individuals to pursue personal, academic, and professional goals by first setting and accomplishing personal fitness goals.
-
-* 2017 – Present, Habitat for Humanity, Brush with Kindness Volunteer
--	Renovate apartment buildings for low-income families by painting common spaces including hallways, stairwells, and housing community centers through New York City on a bi-monthly basis.
+<br /> 
 
 ## Skills {.tabset}
 
