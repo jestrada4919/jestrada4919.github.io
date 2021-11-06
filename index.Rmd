@@ -1,5 +1,5 @@
 ---
-title: "My Personal Webpage"
+title: "Jen Estrada"
 output: 
   html_document:
     code_folding: hide
@@ -9,16 +9,15 @@ output:
 
 # Welcome to my personal page!
 
-My name is Jen and I am currently a MS student in Epidemiology at the Mailman School of Public Health in New York City.
+My name is Jen and I am currently a MS student in Epidemiology at the Mailman School of Public Health in New York City. As a student in P8105, a homework assignment has led me to the creation of this page. Regardless - I hope you find some useful information here. 
 
-If you would like to learn more about my background and previous research projects, you can read about it on my [CV](about.html) page.
+If you would like to learn more about my background and previous research projects, you can read about it on my [CV page](about.html).
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-And here's some additional text
 
 ```{r}
-rnorm(10)
+
 ```
 Let's link to useful tools for data science:
 
@@ -28,12 +27,6 @@ Let's link to useful tools for data science:
 Here's my cat, Ted:
 
 <!-- example format: ![](images/ted.jpg) -->
-
-
-## Link to page within the site
-
-
-
 
 ## Tabs {.tabset}
 
