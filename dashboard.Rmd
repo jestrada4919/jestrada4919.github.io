@@ -1,5 +1,5 @@
 ---
-title: "Dashboard"
+title: "NY NOAA"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -10,59 +10,91 @@ output:
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(tidyverse)
-library(p8105.datasets)
 library(plotly)
-
+library(rnoaa)
 ```
-```{r}
-data("nyc_airbnb")
 
-nyc_airbnb <-
-  nyc_airbnb %>% 
-  mutate(rating = review_scores_location/2) %>% 
-  select(neighbourhood_group, neighbourhood, rating, price, lat, long, room_type) %>% 
-  filter(
-    neighbourhood_group == "Manhattan",
-    price %in% 100:500,
-    room_type == "Entire home/apt"
-  ) %>% 
-  drop_na(rating)
+```{r}
+
+weather_df = 
+  rnoaa::meteo_pull_monitors(
+    c("NZM00093110", "HO000078720", "USC00368449"),
+    var = c("PRCP", "TMIN", "TMAX"), 
+    date_min = "2015-01-01",
+    date_max = "2017-12-31") %>%
+  mutate(
+    name = recode(
+      id, 
+      NZM00093110 = "Auckland, New Zealand", 
+      HO000078720 = "Tegucigalpa, Honduras",
+      USC00368449 = "University Park, PA"),
+    tmin = tmin / 10,
+    tmax = tmax / 10,
+    prcp = prcp *10,
+    month = lubridate::floor_date(date, unit = "month"),
+    year = lubridate::floor_date(date, unit = "year")) %>%
+  select(name, id, everything()) %>% 
+  drop_na(prcp, tmax, tmin)
+
+
 ```
  
 
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### (A) I have family in Honduras and have previously lived near University Park, PA; I am hoping to one day visit Auckland. So logically I ask myself: how does maximum temperature change throughout the year for these 3 locations? 
 
 ```{r}
-nyc_airbnb %>% 
-  mutate(text_label = str_c("Price: $", price, "\nRating: ", rating)) %>% 
-  plot_ly(x = ~lat, y = ~long, color = ~price, text = ~text_label, alpha = 0.5,
-          type = "scatter", mode = "markers"
-          )
+weather_df %>% 
+  mutate(text_label = str_c("Precipitation: ", prcp, " mm")) %>% 
+  plot_ly(x = ~date, y = ~tmax, color = ~name, alpha = 0.5,
+          type = "scatter", mode = "lines", text = ~text_label, colors = "viridis"
+          ) %>% 
+  layout(title = 'Maximmum Temperature by Location (2015-2017)', 
+         xaxis = list(title = 'Date'), 
+         yaxis = list(title = 'Maximum Temperature (˚C)'), 
+         legend = list(title = list(text = '<b> Location </b>')))
+
+
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### (B) How many days a year does each location have measured precipitation?
 
 ```{r}
-nyc_airbnb %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, price)) %>% 
-  plot_ly(y = ~price, x = ~neighbourhood, color = ~neighbourhood,
-          type = "box", colors = "viridis")
+weather_df %>% 
+  group_by(month, name) %>% 
+  filter(year == "2015-01-01") %>% 
+  plot_ly(
+    x = ~month, y = ~tmax, color = ~name, 
+    type = "box", colors = "viridis") %>% 
+  layout(title = 'Maxu', 
+         xaxis = list(title = 'Month'), 
+         yaxis = list(title = 'Maximum Temperature'), 
+         legend = list(title = list(text = '<b> Location </b>')))
+
+
+
 ```
 
-### Chart C
+### (C) But then how does monlthyHow do these two variables (precipitation and max. temperature) compare?
 
 ```{r}
-nyc_airbnb %>% 
-  count(neighbourhood) %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
+weather_df %>% 
+  mutate(precipdays = ifelse(prcp > 0, "yes", "no")) %>% 
+  filter(precipdays == "yes", year == "2015-01-01") %>% 
+  group_by(month, name) %>% 
+  count(precipdays) %>% 
   plot_ly(
-    x = ~neighbourhood, y = ~n, color = ~neighbourhood, 
-    type = "bar", colors = "viridis")
+    x = ~month, y = ~n, color = ~name, 
+    type = "bar", colors = "viridis") %>% 
+  layout(title = 'Annual Precipitation Days', 
+         xaxis = list(title = 'Month'), 
+         yaxis = list(title = 'Number of precipiation days'), 
+         legend = list(title = list(text = '<b> Location </b>')))
+
 ```
 
