@@ -1,11 +1,19 @@
 ---
-title: "NY NOAA"
+title: "Some data from NOAA"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
     source: embed
+    theme: simplex
 ---
+For this exercise in setting up Dashboards I have used data pulled from the The "Daily Global Historical Climatology Network (GHCN-DAILY) provided via the National Oceanic and Atmospheric Administration (NOAA). I have chosen 3 locations of interest to compared temperature and precipitation data; these locations are:
+
+* Auckland, New Zealand: A place I hope to visit someday,
+* Tegucigalpa, Honduras: A place I have visited when seeing family, and 
+* University Park, PA: A place I am familiar with having having attended graduate school there.
+
+Reference: Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, S. Anthony, R. Ray, R.S. Vose, B.E.Gleason, and T.G. Houston, 2012: Global Historical Climatology Network-Daily (GHCN-Daily), Version 3. [indicate subset used following decimal, e.g. Version 3.12]. NOAA National Climatic Data Center. http://doi.org/10.7289/V5D21VHZ [accessed Nov. 6, 2021].
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
@@ -14,7 +22,7 @@ library(plotly)
 library(rnoaa)
 ```
 
-```{r}
+```{r data_setup}
 
 weather_df = 
   rnoaa::meteo_pull_monitors(
@@ -43,7 +51,7 @@ weather_df =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### (A) I have family in Honduras and have previously lived near University Park, PA; I am hoping to one day visit Auckland. So logically I ask myself: how does maximum temperature change throughout the year for these 3 locations? 
+### (A) How does maximum temperature change throughout the year for these 3 locations? 
 
 ```{r}
 weather_df %>% 
@@ -51,7 +59,7 @@ weather_df %>%
   plot_ly(x = ~date, y = ~tmax, color = ~name, alpha = 0.5,
           type = "scatter", mode = "lines", text = ~text_label, colors = "viridis"
           ) %>% 
-  layout(title = 'Maximmum Temperature by Location (2015-2017)', 
+  layout(title = 'Maximum Temperature by Location (2015-2017)', 
          xaxis = list(title = 'Date'), 
          yaxis = list(title = 'Maximum Temperature (˚C)'), 
          legend = list(title = list(text = '<b> Location </b>')))
@@ -62,7 +70,7 @@ weather_df %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### (B) How many days a year does each location have measured precipitation?
+### (B) Looking at data from a single year (specifically 2015), what are the distributions for monthly maximum temperature at each of these locations?
 
 ```{r}
 weather_df %>% 
@@ -72,7 +80,7 @@ weather_df %>%
     x = ~month, y = ~tmax, color = ~name, 
     type = "box", colors = "viridis") %>% 
   layout(title = 'Maxu', 
-         xaxis = list(title = 'Month'), 
+         xaxis = list(title = 'Date'), 
          yaxis = list(title = 'Maximum Temperature'), 
          legend = list(title = list(text = '<b> Location </b>')))
 
@@ -80,7 +88,7 @@ weather_df %>%
 
 ```
 
-### (C) But then how does monlthyHow do these two variables (precipitation and max. temperature) compare?
+### (C) And in 2015 how many days did these locations experience precipitation (of any kind) each month?
 
 ```{r}
 weather_df %>% 
@@ -92,7 +100,7 @@ weather_df %>%
     x = ~month, y = ~n, color = ~name, 
     type = "bar", colors = "viridis") %>% 
   layout(title = 'Annual Precipitation Days', 
-         xaxis = list(title = 'Month'), 
+         xaxis = list(title = 'Date'), 
          yaxis = list(title = 'Number of precipiation days'), 
          legend = list(title = list(text = '<b> Location </b>')))
 
