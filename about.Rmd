@@ -16,7 +16,7 @@ output:
 * 2020, M.S. in Geosciences, The Pennsylvania State University, University Park, PA
   * Concentrations: Isotope Geochemistry, Hydrogeology
   * Thesis title: Effect of brine evolution on Ca-isotope composition in the Salar de Atacama, Northern Chile
-  * Thesis co-advisors: Matthew S. Fantle, PhD., Tess A. Russo, PhD.
+  * Thesis co-advisors: Matthew S. Fantle, PhD., Tess A. Russo, PhD.  
 <br /> 
 
 * 2014, B.A. in Earth Sciences (with honors) and Biological Sciences, Dartmouth College, Hanover, NH
@@ -117,7 +117,7 @@ output:
 * EmStat
 * SRS
 
-### Techniques in analytical chemistry: 
+### Techniques in analytical chemistry 
 
 * Inductively coupled plasma (ICP) mass spectrometry (MS) and atomic emission spectroscopy (AES)
 * ion exchange chromatography
