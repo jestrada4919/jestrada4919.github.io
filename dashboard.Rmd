@@ -1,5 +1,18 @@
 ---
 title: "Some data from NOAA"
+navbar:
+  title: "Home"
+  right:
+    - text: "CV"
+      href: about.html
+    - text: "Some Information from NOAA"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg  
+      href: mailto:<jae2186@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/jestrada4919/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jenniferaestrada/
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
