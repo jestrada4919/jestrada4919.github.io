@@ -13,13 +13,13 @@ output:
     - {icon: fa-github, href: http://github.com/jestrada4919/}
     - {icon: fa-linkedin, href: https://www.linkedin.com/in/jenniferaestrada/}   
 ---
-For this exercise in setting up Dashboards I have used data pulled from the The "Daily Global Historical Climatology Network (GHCN-DAILY) provided via the National Oceanic and Atmospheric Administration (NOAA). I have chosen 3 locations of interest to compared temperature and precipitation data; these locations are:
+<b>For this exercise in setting up a dashboard, I have pulled data  from the Daily Global Historical Climatology Network (GHCN-DAILY) provided by the National Oceanic and Atmospheric Administration (NOAA). I have chosen 3 locations of interest to compare temperature and precipitation data; these locations are:</b>
 
-* Auckland, New Zealand: A place I hope to visit someday,
-* Tegucigalpa, Honduras: A place I have visited when seeing family, and 
-* University Park, PA: A place I am familiar with having having attended graduate school there.
+* Auckland, New Zealand - a place I hope to visit someday,
+* Tegucigalpa, Honduras - a place I have visited when seeing family, and 
+* University Park, PA - a place I am familiar with having attended graduate school there.
 
-Reference: Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, S. Anthony, R. Ray, R.S. Vose, B.E.Gleason, and T.G. Houston, 2012: Global Historical Climatology Network-Daily (GHCN-Daily), Version 3. [indicate subset used following decimal, e.g. Version 3.12]. NOAA National Climatic Data Center. http://doi.org/10.7289/V5D21VHZ [accessed Nov. 6, 2021].
+<b>Reference</b>: Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, S. Anthony, R. Ray, R.S. Vose, B.E.Gleason, and T.G. Houston, 2012: Global Historical Climatology Network-Daily (GHCN-Daily), Version 3. [indicate subset used following decimal, e.g. Version 3.12]. NOAA National Climatic Data Center. http://doi.org/10.7289/V5D21VHZ [accessed Nov. 6, 2021].
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
@@ -50,16 +50,15 @@ weather_df =
   select(name, id, everything()) %>% 
   drop_na(prcp, tmax, tmin)
 
-
 ```
  
 
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### (A) How does maximum temperature change throughout the year for these 3 locations? 
+### (A) How does maximum temperature change throughout the year in these 3 locations?
 
-```{r}
+```{r charta}
 weather_df %>% 
   mutate(text_label = str_c("Precipitation: ", prcp, " mm")) %>% 
   plot_ly(x = ~date, y = ~tmax, color = ~name, alpha = 0.5,
@@ -76,9 +75,9 @@ weather_df %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### (B) Looking at data from a single year (specifically 2015), what are the distributions for monthly maximum temperature at each of these locations?
+### (B) Looking at data from a single year (specifically 2015), what are the distributions for monthly maximum temperature for each of these locations?
 
-```{r}
+```{r chartb}
 weather_df %>% 
   group_by(month, name) %>% 
   filter(year == "2015-01-01") %>% 
@@ -96,7 +95,7 @@ weather_df %>%
 
 ### (C) And in 2015 how many days did these locations experience precipitation (of any kind) each month?
 
-```{r}
+```{r chartc}
 weather_df %>% 
   mutate(precipdays = ifelse(prcp > 0, "yes", "no")) %>% 
   filter(precipdays == "yes", year == "2015-01-01") %>% 
