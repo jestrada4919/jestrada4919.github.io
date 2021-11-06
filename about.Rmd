@@ -120,7 +120,3 @@ Foreign studies programs: German (Berlin, Germany); Earth Sciences (Western Cana
 * Spanish (Proficient)
 * German (Proficient)
 
-
-## This is my new section
-
-... and it's really great
