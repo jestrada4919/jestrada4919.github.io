@@ -7,7 +7,7 @@ output:
 ---
 <br /> 
 
-# Education
+## Education
 <br /> 
 
 * 2023, (expected) M.S. in Epidemiology, Mailman School of Public Health, Columbia University, New York, NY
@@ -26,7 +26,7 @@ output:
 <br /> 
 <br /> 
 
-# Research Experience
+## Research Experience
 
 * June 2019 – Present, Research Assistant, The Hospital for Special Surgery
   * PI: Joshua Dines, MD – Orthopedic Surgery and Sports Medicine
@@ -55,7 +55,7 @@ output:
 <br /> 
 <br /> 
 
-# Clinical Experience
+## Clinical Experience
 
 * Sept 2018 – May 2019, Medical Scribe, Tribeca Park Dermatology
   * Transcribed physician recordings of patient visits into charts to ensure thorough documentation of doctor-patient interactions. Assisted administrative staff to schedule patient appointments, communicate between pharmacies and laboratories on behalf of providers, and answer patient inquiries concerning in-office medical and cosmetic procedures.  
@@ -66,58 +66,58 @@ output:
 <br />
 
 
-# Publications
-## Peer Reviewed Journal Articles
+## Publications
+### Peer Reviewed Journal Articles
 
 1.	Manzi JE, <b>Estrada JA</b>, Dowling B, Ruzbarsky JJ, Dines JS. Intra- versus inter-pitcher comparisons: Associations of ball velocity with throwing-arm kinetics in professional baseball pitchers. J Shoulder Elbow Surg. 2021:S1058-2746(21)00396-7. [doi:10.1016/j.jse.2021.04.017](https://doi.org/10.1016/j.jse.2021.04.017)
 2.	Manzi JE, Dowling B, Wang Z, Kunze KN, <b>Estrada J</b>, Fu CM, McElheny KL, Carr JB, Dines JS. Association of Pitch Timing and Throwing Arm Kinetics in High School and Professional Pitchers. The American Journal of Sports Medicine. 2021;49(12):3386-3394. [doi:10.1177/03635465211031853](https://doi.org/10.1177/03635465211031853)
 <br /> 
 
-## Peer Reviewed Abstracts
+### Peer Reviewed Abstracts
 1.	Carr J, Manzi J, <b>Estrada J</b>, Dowling B, Mcelheny K, Dines J. Comparison of Elbow Varus Torque During Interval Throwing Programs and Gameday Pitching in High School Baseball Pitchers (125). Orthopaedic Journal of Sports Medicine. October 2021. [doi:10.1177/2325967121S00268](https://doi.org/10.1177/2325967121S00268)
 2.	Manzi J, Kunze K, <b>Estrada J</b>, Dowling B, McElheny K, Dines J, Carr J. Rest Day Requirements Have a Greater Effect on Season-Long Workload Expenditure by High School Pitchers than Pitch Count Limits: Implications for High School State Pitch Count Regulations. Orthopaedic Journal of Sports Medicine. July 2021. [doi:10.1177/2325967121S00222](https://doi.org/10.1177/2325967121S00222)
 <br /> 
 
-## Conference Posters (presented by others)
+### Conference Posters (presented by others)
 
 1.	McElheny K, Carr J, Manzi J, Dowling B, <b>Estrada J</b>, Dines J. Do Interval Throwing Programs Appropriately Simulate Workload Values of Competitive Pitching. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)
 2.	McElheny K, Carr J, Manzi J, Kunze K, <b>Estrada J</b>, Dines J. High School Baseball Pitch Count Rules Vary Widely Across All Fifty States. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187-188. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)  
 <br />  
 
-# Teching Experience
+## Teching Experience
 
 * EARTH 100: Earth Environment, The Pennsylvania State University. Teaching Assistant for introductory-level course with 111 students. Spring 2016.
 <br /> 
 
-# Honors & Awards
+## Honors & Awards
 
 * 2015 Charles E. Knopf, Sr., Memorial Scholarship in Geosciences (Penn State Dept. of Geosciences)
 * 2014 Kaminsky Family Fund Award (Dartmouth College Undergraduate Research)
 <br /> 
 
-# Grants & Fellowships
+## Grants & Fellowships
 
 * 2015 Geological Society of America (GSA) Graduate Student Research Grant
 * 2014 Bunton-Waller Fellowship (Pennsylvania State University)
 <br /> 
 
-## Skills {.tabset}
+### Skills {.tabset}
 
-### Computer
+#### Computer
 
 * R statistical language
 * FORTRAN
 * ArcGIS
 * Microsoft Office
 
-### Electronic health records mangers 
+#### Electronic health records mangers 
 
 * EPIC
 * Criterions
 * EmStat
 * SRS
 
-### Techniques in analytical chemistry 
+#### Techniques in analytical chemistry 
 
 * Inductively coupled plasma (ICP) mass spectrometry (MS) and atomic emission spectroscopy (AES)
 * ion exchange chromatography
@@ -125,7 +125,7 @@ output:
 * scanning electron microscope (SEM) microscopy
 * sample digestions
 
-### Languages
+#### Languages
 
 * Spanish (Proficient)
 * German (Proficient)
