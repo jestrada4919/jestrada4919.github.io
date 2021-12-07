@@ -13,7 +13,7 @@ output:
 * 2023, (expected) M.S. in Epidemiology, Mailman School of Public Health, Columbia University, New York, NY
 <br /> 
 
-* 2020, M.S. in Geosciences, The Pennsylvania State University, University Park, PA
+* 2016, M.S. in Geosciences, The Pennsylvania State University, University Park, PA
   * Concentrations: Isotope Geochemistry, Hydrogeology
   * Thesis title: Effect of brine evolution on Ca-isotope composition in the Salar de Atacama, Northern Chile
   * Thesis co-advisors: Matthew S. Fantle, PhD., Tess A. Russo, PhD.  
