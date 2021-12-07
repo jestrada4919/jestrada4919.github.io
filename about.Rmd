@@ -69,19 +69,19 @@ output:
 # Publications
 ## Peer Reviewed Journal Articles
 
-1.	Manzi JE, Estrada JA, Dowling B, Ruzbarsky JJ, Dines JS. Intra- versus inter-pitcher comparisons: Associations of ball velocity with throwing-arm kinetics in professional baseball pitchers. J Shoulder Elbow Surg. 2021:S1058-2746(21)00396-7. [doi:10.1016/j.jse.2021.04.017](https://doi.org/10.1016/j.jse.2021.04.017)
-2.	Manzi JE, Dowling B, Wang Z, Kunze KN, Estrada J, Fu CM, McElheny KL, Carr JB, Dines JS. Association of Pitch Timing and Throwing Arm Kinetics in High School and Professional Pitchers. The American Journal of Sports Medicine. 2021;49(12):3386-3394. [doi:10.1177/03635465211031853](https://doi.org/10.1177/03635465211031853)
+1.	Manzi JE, <b>Estrada JA</b>, Dowling B, Ruzbarsky JJ, Dines JS. Intra- versus inter-pitcher comparisons: Associations of ball velocity with throwing-arm kinetics in professional baseball pitchers. J Shoulder Elbow Surg. 2021:S1058-2746(21)00396-7. [doi:10.1016/j.jse.2021.04.017](https://doi.org/10.1016/j.jse.2021.04.017)
+2.	Manzi JE, Dowling B, Wang Z, Kunze KN, <b>Estrada J</b>, Fu CM, McElheny KL, Carr JB, Dines JS. Association of Pitch Timing and Throwing Arm Kinetics in High School and Professional Pitchers. The American Journal of Sports Medicine. 2021;49(12):3386-3394. [doi:10.1177/03635465211031853](https://doi.org/10.1177/03635465211031853)
 <br /> 
 
 ## Peer Reviewed Abstracts
-1.	Carr J, Manzi J, Estrada J, Dowling B, Mcelheny K, Dines J. Comparison of Elbow Varus Torque During Interval Throwing Programs and Gameday Pitching in High School Baseball Pitchers (125). Orthopaedic Journal of Sports Medicine. October 2021. [doi:10.1177/2325967121S00268](https://doi.org/10.1177/2325967121S00268)
-2.	Manzi J, Kunze K, Estrada J, Dowling B, McElheny K, Dines J, Carr J. Rest Day Requirements Have a Greater Effect on Season-Long Workload Expenditure by High School Pitchers than Pitch Count Limits: Implications for High School State Pitch Count Regulations. Orthopaedic Journal of Sports Medicine. July 2021. [doi:10.1177/2325967121S00222](https://doi.org/10.1177/2325967121S00222)
+1.	Carr J, Manzi J, <b>Estrada J</b>, Dowling B, Mcelheny K, Dines J. Comparison of Elbow Varus Torque During Interval Throwing Programs and Gameday Pitching in High School Baseball Pitchers (125). Orthopaedic Journal of Sports Medicine. October 2021. [doi:10.1177/2325967121S00268](https://doi.org/10.1177/2325967121S00268)
+2.	Manzi J, Kunze K, <b>Estrada J</b>, Dowling B, McElheny K, Dines J, Carr J. Rest Day Requirements Have a Greater Effect on Season-Long Workload Expenditure by High School Pitchers than Pitch Count Limits: Implications for High School State Pitch Count Regulations. Orthopaedic Journal of Sports Medicine. July 2021. [doi:10.1177/2325967121S00222](https://doi.org/10.1177/2325967121S00222)
 <br /> 
 
 ## Conference Posters (presented by others)
 
-1.	McElheny K, Carr J, Manzi J, Dowling B, Estrada J, Dines J. Do Interval Throwing Programs Appropriately Simulate Workload Values of Competitive Pitching. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)
-2.	McElheny K, Carr J, Manzi J, Kunze K, Estrada J, Dines J. High School Baseball Pitch Count Rules Vary Widely Across All Fifty States. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187-188. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)  
+1.	McElheny K, Carr J, Manzi J, Dowling B, <b>Estrada J</b>, Dines J. Do Interval Throwing Programs Appropriately Simulate Workload Values of Competitive Pitching. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)
+2.	McElheny K, Carr J, Manzi J, Kunze K, <b>Estrada J</b>, Dines J. High School Baseball Pitch Count Rules Vary Widely Across All Fifty States. 2021 AMSSM Oral Research Poster Presentations. Clin J Sport Med. 2021, 31(2):187-188. [doi:10.1097/JSM.0000000000000914](https://doi.org/10.1097/JSM.0000000000000914)  
 <br />  
 
 # Teching Experience
